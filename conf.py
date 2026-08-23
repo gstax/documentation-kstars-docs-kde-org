@@ -95,9 +95,9 @@ except subprocess.CalledProcessError as exc:
     gitcommithash = release
 
 # The short X.Y version
-version = '3.7'
+version = '3.8'
 # The full version, including alpha/beta/rc tags
-release = '3.7.6'
+release = '3.8.4'
 
 
 # -- General configuration ---------------------------------------------------
