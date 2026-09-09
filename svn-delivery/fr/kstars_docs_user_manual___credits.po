@@ -1,0 +1,252 @@
+# Translation of kstars_credits.po to french
+# Traduction de kstars_credits.po en Français
+#
+# SPDX-FileCopyrightText: 2012, 2024 Xavier Besnard <xavier.besnard@kde.org>
+# Ludovic Grossard <grossard@kde.org>, 2002, 2004, 2012.
+# Gérard Delafond <gerard@delafond.org>, 2002,2003.
+# Cyrille Bieuzent <bieuzent@gmail.com>, 2012.
+# steve <stax@ik.me>, 2022, 2023, 2024, 2025, 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: kstars_credits_3.7.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-17 08:59+0000\n"
+"PO-Revision-Date: 2024-01-22 21:25+0100\n"
+"Last-Translator: Steve <stax@ik.me>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 23.08.4\n"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:3
+msgid "Chapter 12. Credits and License"
+msgstr "Chapitre 12. Remerciements et licence"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:5
+msgid "**KStars**"
+msgstr "**KStars**"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:7
+msgid ""
+"Program copyright 2001-2021 The KStars Team ``(mutlaqja ikarustech.com)``"
+msgstr ""
+"Programme sous copyright 2001-2021 L'équipe de KStars ``(mutlaqja ikarustech."
+"com)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:9
+msgid "The KStars Team:"
+msgstr "L'équipe de KStars :"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:11
+msgid "Jason Harris ``(kstars 30doradus.org)``"
+msgstr "Jason Harris ``(kstars 30doradus.org)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:13
+msgid "Jasem Mutlaq ``(mutlaqja ku.edu)``"
+msgstr "Jasem Mutlaq ``(mutlaqja ku.edu)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:15
+msgid "Pablo de Vicente ``(pvicentea wanadoo.es)``"
+msgstr "Pablo de Vicente ``(pvicentea wanadoo.es)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:17
+msgid "Heiko Evermann ``(heiko evermann.de)``"
+msgstr "Heiko Evermann ``(heiko evermann.de)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:19
+msgid "Thomas Kabelmann ``(tk78 gmx.de)``"
+msgstr "Thomas Kabelmann ``(tk78 gmx.de)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:21
+msgid "Mark Hollomon ``(mhh mindspring.com)``"
+msgstr "Mark Hollomon ``(mhh mindspring.com)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:23
+msgid "Carsten Niehaus ``(cniehaus kde.org)``"
+msgstr "Carsten Niehaus ``(cniehaus kde.org)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:25
+msgid "James Bowlin ``(bowlin mindspring.com)``"
+msgstr "James Bowlin ``(bowlin mindspring.com)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:27
+msgid "Alexey Khudyakov ``(alexey.skladnoy gmail.com)``"
+msgstr "Alexey Khudyakov ``(alexey.skladnoy gmail.com)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:29
+msgid "Mederic Boquien ``(mboquien free.fr)``"
+msgstr "Mederic Boquien ``(mboquien free.fr)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:31
+msgid "Akarsh Simha ``(akarsh.simha kdemail.net)``"
+msgstr "Akarsh Simha ``(akarsh.simha kdemail.net)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:33
+msgid "Jerome Sonrier ``(jsid emor3j.fr.eu.org)``"
+msgstr "Jerome Sonrier ``(jsid emor3j.fr.eu.org)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:35
+msgid "Prakash Mohan ``(prakash.mohan kdemail.net)``"
+msgstr "Prakash Mohan ``(prakash.mohan kdemail.net)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:37
+msgid "Victor Carbune ``(victor.carbune kdemail.net)``"
+msgstr "Victor Carbune ``(victor.carbune kdemail.net)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:39
+msgid "Henry de Valence ``(hdevalence gmail.com)``"
+msgstr "Henry de Valence ``(hdevalence gmail.com)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:41
+msgid "Samikshan Bairagya ``(samikshan.bairagya kdemail.net)``"
+msgstr "Samikshan Bairagya ``(samikshan.bairagya kdemail.net)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:43
+msgid "Rafal Kulaga ``(rl.kulaga gmail.com)``"
+msgstr "Rafal Kulaga ``(rl.kulaga gmail.com)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:45
+msgid "Rishab Arora ``(ra.rishab gmail.com)``"
+msgstr "Rishab Arora ``(ra.rishab gmail.com)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:47
+msgid "Valentin Boettcher ``(hiro protagon.space)``"
+msgstr "Valentin Boettcher ``(hiro protagon.space)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:49
+msgid "Data Sources:"
+msgstr "Sources de données :"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:51
+msgid ""
+"Object catalogs and planet position tables: `NASA Astronomical Data Center "
+"<http://adc.gsfc.nasa.gov>`__"
+msgstr ""
+"Catalogues d'objets et tables de position des planètes : `Centre de données "
+"astronomiques de la NASA <http://adc.gsfc.nasa.gov>`__"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:53
+msgid ""
+"Detailed credit information for all of the images used in the program is "
+"presented in the file README.images"
+msgstr ""
+"Les informations de remerciement pour toutes les images utilisées dans le "
+"programme sont présentées dans le fichier README.images."
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:55
+msgid "References:"
+msgstr "Références :"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:57
+msgid "“Practical Astronomy With Your Calculator” by Peter Duffet-Smith"
+msgstr "« Astronomie pratique avec votre calculatrice » par Peter Duffet-Smith"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:59
+msgid "“Astronomical Algorithms” by Jean Meeus"
+msgstr "« Algorithmes astronomiques » par Jean Meeus"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:61
+msgid ""
+"Special thanks: To the KDE and Qt™ developers for providing the world with a "
+"peerless set of free API libraries. To the KDevelop team, for their "
+"excellent IDE, which made developing KStars so much easier and more fun. To "
+"everyone on the KDevelop message board, the KDE mailing lists, and on irc."
+"kde.org, for answering our frequent questions. Thank you to Anne-Marie "
+"Mahfouf, for inviting KStars to join the KDE-Edu module.  Finally, thanks to "
+"everyone who has submitted bug reports and other feedback. Thank you, "
+"everyone."
+msgstr ""
+"Remerciements spéciaux aux développeurs de KDE et de Qt pour offrir au monde "
+"des bibliothèques API libres de qualité hors-pair. À l'équipe de KDevelop "
+"pour leur excellent IDE qui a rendu le développement de KStars plus facile "
+"et agréable. À tout le monde du forum de KDevelop, à la liste de diffusion "
+"de KDE et sur irc.kde.org pour les réponses aux fréquentes questions. Merci "
+"à Anne-Marie Mahfouf pour avoir invité KStars à rejoindre le module KDE-Edu. "
+"Enfin, à tous ceux qui ont fait part de bogues et autres retours. Merci à "
+"tous."
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:63
+msgid ""
+"Documentation copyright 2001-2021 Jason Harris and the KStars Team ``(kstars-"
+"devel AT kde.org)``"
+msgstr ""
+"Documentation copyright 2001-2021 Jason Harris et l'équipe de KStars "
+"``(kstars-devel AT kde.org)``"
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:65
+msgid ""
+"This documentation is licensed under the terms of the :doc:`GNU Free "
+"Documentation License <gnu-fdl>`."
+msgstr ""
+"Cette documentation est distribuée sous les termes de la :doc:`licence GNU "
+"de documentation libre <gnu-fdl>`."
+
+#. +> trunk5
+#: ../../user_manual/credits.rst:67
+msgid ""
+"This program is licensed under the terms of the :doc:`GNU General Public "
+"License <gpl-3.0>`."
+msgstr ""
+"Ce programme est distribué sous les termes de la :doc:`licence publique "
+"générale GNU <gpl-3.0>`."
+
+#~ msgid "&kstars;"
+#~ msgstr "&kstars;"
+
+#~ msgid "&Jason.Harris; &Jason.Harris.mail;"
+#~ msgstr "&Jason.Harris; &Jason.Harris.mail;"
+
+#~ msgid "&Jasem.Mutlaq; &Jasem.Mutlaq.mail;"
+#~ msgstr "&Jasem.Mutlaq; &Jasem.Mutlaq.mail;"
+
+#~ msgid "&Pablo.de.Vicente; &Pablo.de.Vicente.mail;"
+#~ msgstr "&Pablo.de.Vicente; &Pablo.de.Vicente.mail;"
+
+#~ msgid "&Thomas.Kabelmann; &Thomas.Kabelmann.mail;"
+#~ msgstr "&Thomas.Kabelmann; &Thomas.Kabelmann.mail;"
+
+#~ msgid "&Carsten.Niehaus; &Carsten.Niehaus.mail;"
+#~ msgstr "&Carsten.Niehaus; &Carsten.Niehaus.mail;"
+
+#~ msgid "CREDIT_FOR_TRANSLATORS"
+#~ msgstr ""
+#~ "<para>Traduction française par l'équipe de traduction francophone de kde "
+#~ "<email>kde-francophone@kde.org</email></para>"
+
+#~ msgid "&underFDL; &underGPL;"
+#~ msgstr "&underFDL; &underGPL;"

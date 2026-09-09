@@ -1,0 +1,86 @@
+# Translation of kstars_ekos-tutorials.po to french
+# Traduction de kstars_ekos-tutorials.po en Français
+#
+# steve <stax@ik.me>, 2022, 2023, 2024, 2025, 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: kstars_ekos-tutorial_3.7.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-17 08:59+0000\n"
+"PO-Revision-Date: 2023-08-01 17:43+0200\n"
+"Last-Translator: Steve <stax@ik.me>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. +> trunk5
+#: ../../user_manual/ekos-tutorials.rst:3
+msgid "Ekos Tutorials"
+msgstr "Tutoriels Ekos"
+
+#. +> trunk5
+#: ../../user_manual/ekos-tutorials.rst:8
+msgid "Viewer"
+msgstr "Afficheur"
+
+#. +> trunk5
+#: ../../user_manual/ekos-tutorials.rst:10
+msgid ""
+"StellarMate is shipped with a VNC Server. This enables you to access the "
+"whole StellarMate desktop remotely. To connect to VNC, you can either use a "
+"Desktop/Mobile VNC Client, or simply via any browser."
+msgstr ""
+"StellarMate est distribué avec un serveur VNC. Cela vous permet d'accéder à "
+"distance au bureau StellarMate. La connexion à VNC se fait soit via un "
+"client VNC depuis votre bureau ou votre mobile soit simplement via un "
+"navigateur."
+
+#. +> trunk5
+#: ../../user_manual/ekos-tutorials.rst:12
+msgid "The VNC address is: **https://stellarmate_hostname:6080/vnc.html**"
+msgstr "L'adresse VNC est : ``https://stellarmate_hostname:6080/vnc.html``."
+
+#. +> trunk5
+#: ../../user_manual/ekos-tutorials.rst:14
+msgid ""
+"Where ``stellarmate_hostname`` is the actual hostname (or IP address) of "
+"your unit and 6080 is the port. If you do not know the unit hostname, you "
+"can find the hostname in your StellarMate App."
+msgstr ""
+"Où ``stellarmate_hostname`` est le nom d'hôte (ou l'adresse IP) de votre "
+"appareil et 6080 le numéro du port. Si vous ne connaissez pas le nom d'hôte "
+"de votre appareil, vous pouvez le trouver dans l'application StellarMate."
+
+#. +> trunk5
+#: ../../user_manual/ekos-tutorials.rst:16
+msgid ""
+"You can use `Real VNC <https://www.realvnc.com/download/viewer/>`__ which is "
+"available on all platforms to access stellarmate."
+msgstr ""
+"Vous pouvez utiliser l'application `Real VNC <https://www.realvnc.com/"
+"download/viewer/>`__ qui est disponible pour toutes les plateformes pour "
+"accéder à StellarMate."
+
+#. +> trunk5
+#: ../../user_manual/ekos-tutorials.rst:18
+msgid ""
+"Once you access StellarMate, you can use it like any full-fledged computer. "
+"The default username is **stellarmate** and the default password is "
+"**smate**."
+msgstr ""
+"Une fois que vous êtes sur StellarMate, vous pouvez l'utiliser comme "
+"n'importe quel véritable ordinateur. L'identifiant par défaut est "
+"``stellarmate`` et le mot de passe par défaut est ``smate``."
+
+#~ msgid "Tools"
+#~ msgstr "Outils"
+
+#~ msgid "Ekos"
+#~ msgstr "Ekos"
+
+#~ msgid "Tutorials"
+#~ msgstr "Tutoriels"
