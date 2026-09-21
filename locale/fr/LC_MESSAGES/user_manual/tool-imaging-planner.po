@@ -1076,7 +1076,7 @@ msgstr ""
 "Il serait utile de créer un symbole personnalisé « FOV » pour la carte du "
 "ciel, identique au champ de vision de votre appareil d'acquisition. Allez "
 "dans ``Configuration`` → ``Symboles de champ de vision``, puis sélectionnez "
-"``Nouvelle`` → ``Appareil`` et saisissez la longueur focale de vos optiques "
+"``Nouvelle`` → ``Caméra`` et saisissez la longueur focale de vos optiques "
 "ainsi que les spécifications de la caméra."
 
 #: ../../user_manual/tool-imaging-planner.rst:530
