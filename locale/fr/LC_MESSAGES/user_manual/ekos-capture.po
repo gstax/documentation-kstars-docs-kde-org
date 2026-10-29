@@ -1495,9 +1495,9 @@ msgid ""
 "the optical train includes a reducer or a flattener, its factor is applied "
 "to the focal length."
 msgstr ""
-"``Ratio de focale`` est repris du télescope du train optique actif. Si le "
-"train optique comporte un réducteur ou un aplatisseur de champ, son facteur "
-"est appliqué à la focale."
+"``Rapport F/D`` est repris du télescope du train optique actif. Si le train "
+"optique comporte un réducteur ou un aplatisseur de champ, son facteur est "
+"appliqué à la focale."
 
 #: ../../user_manual/ekos-capture.rst:460
 msgid ""
@@ -1673,9 +1673,9 @@ msgid ""
 "optical train, which is needed for the evaluation of light gathering "
 "capability."
 msgstr ""
-"``Rapport F/D`` : le sélecteur pour le ``rapport de focale`` règle la valeur "
-"à partir du train optique qui est nécessaire pour l'évaluation de la "
-"facilité à obtenir la lumière."
+"``Rapport F/D`` : le sélecteur ``Rapport F/D`` règle la valeur à partir du "
+"train optique qui est nécessaire pour l'évaluation de la facilité à obtenir "
+"la lumière."
 
 #: ../../user_manual/ekos-capture.rst:486
 msgid ""
@@ -1723,7 +1723,7 @@ msgid ""
 "Ratio / 0.94"
 msgstr ""
 "La compensation sera calculée pour un réfracteur selon la formule = (Rapport "
-"F / D) / 0.94."
+"F/D) / 0,94."
 
 #: ../../user_manual/ekos-capture.rst:494
 msgid ""
@@ -1731,14 +1731,14 @@ msgid ""
 "Ratio / 0.78"
 msgstr ""
 "La compensation sera calculée pour un réflecteur selon la formule = (Rapport "
-"F / D) / 0.78."
+"F/D) / 0,78."
 
 #: ../../user_manual/ekos-capture.rst:496
 msgid ""
 "These adjustments slightly increase the focal ratio, and therefore slightly "
 "reduce the computed light gathering capability considered in the calculation."
 msgstr ""
-"Ces ajustements augmentent un tout petit peu le rapport « F /D » et ainsi "
+"Ces ajustements augmentent un tout petit peu le rapport F/D et ainsi "
 "réduisent un peu l'efficacité de capture de lumière dans les calculs."
 
 #: ../../user_manual/ekos-capture.rst:498
@@ -2799,8 +2799,8 @@ msgstr ""
 "**Taux de pollution lumineuse** : le taux auquel les électrons de pollution "
 "lumineuse s'accumulent dans chaque pixel, en électrons par seconde, est "
 "calculé à partir de la qualité du ciel (SQM), de l'efficacité quantique du "
-"capteur (QE), de la taille des pixels (en microns), du rapport de focale (N) "
-"et de la largeur de bande du filtre (B, en nanomètres) :"
+"capteur (QE), de la taille des pixels (en microns), du rapport F/D (N) et de "
+"la largeur de bande du filtre (B, en nanomètres) :"
 
 #: ../../user_manual/ekos-capture.rst:687
 msgid ""
@@ -2817,8 +2817,8 @@ msgid ""
 "about 2.5. Halving the focal ratio increases the rate four times."
 msgstr ""
 "Chaque pas de 1,0 en qualité du ciel modifie le taux de pollution d'un "
-"facteur d'environ 2,5. Diviser le rapport de focale par deux multiplie le "
-"taux par quatre."
+"facteur d'environ 2,5. Diviser le rapport F/D par deux multiplie le taux par "
+"quatre."
 
 #: ../../user_manual/ekos-capture.rst:694
 msgid ""
